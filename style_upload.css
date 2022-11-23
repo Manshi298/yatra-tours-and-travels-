@@ -1,0 +1,54 @@
+<style>
+body
+{
+	background-image:url('image/package2.jpg');
+	/*height: 90%;*/
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:1200px 800px;
+
+}
+
+#img_div{
+	
+	border:solid gray 1px;
+	height:75%;
+	width:75%;
+	border-radius:12px;
+	margin:auto;
+	margin-top:30px;
+	padding:10px;
+	background-color:rgb(220,220,200);
+	
+}
+
+#para1 
+	{
+	  color:black;
+	  margin-left:20px;	
+	  text-align: center;
+	  font-size:16px;
+	  font-family:arial;
+	  background-color: none;
+	  border-style: dotted dashed;
+	  width: 10%;
+	  border: none;
+	  border-radius: 5px;
+	  
+	}
+
+select {
+      border-radius:5px;
+	  width: 55%;
+	  padding: 8px 10px;
+	  border: solid;
+	  background-color: #f1f1f1;
+	  }
+input[type=text] 
+	{
+	  border-radius:5px;
+	  width: 55%;
+	  height:30px;
+	  
+	}
+</style>
